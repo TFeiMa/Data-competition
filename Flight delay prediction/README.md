@@ -4,7 +4,7 @@
 ## 数据清洗以及特征构造
 preprocessing_train_data.ipynb
 
-![image](https://github.com/TFeiMa/Data-competition/blob/master/Flight%20delay%20prediction/%E6%95%B0%E6%8D%AE%E6%B8%85%E7%90%86%E6%B5%81%E7%A8%8B%E5%9B%BE.tif)
+![image](https://github.com/TFeiMa/Data-competition/blob/master/Flight%20delay%20prediction/data%20cleaning.PNG)
 ## 模型参数选择
 model_cv.ipynb
 ## 最终模型的训练
