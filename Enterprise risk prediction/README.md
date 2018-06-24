@@ -1,5 +1,7 @@
 # [CCF-企业经营退出风险预测](http://www.datafountain.cn/#/competitions/271/activity) 初赛方案
-## 比赛介绍
+## 赛题介绍
+参赛者需要利用训练数据集中企业信息数据，构建算法模型，并利用该算法模型对验证数据集中企业，给出预测结果以及风险概率值
+
 [竞赛概述](http://www.datafountain.cn/?u=7586043&&#/competitions/271/intro)
 ## 数据集
 数据集介绍：[企业经营退出风险预测数据集](http://www.datafountain.cn/?u=7586043&&#/competitions/271/data-intro)
